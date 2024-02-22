@@ -1,4 +1,4 @@
-# EJEMPLO-DE-PDF
+# EXAMPLE-PDF
 
 <!-- DOCS-IGNORE:start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -8,40 +8,41 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-Cambiar lenguaje de README a [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/FelCer/vtex-pdf-reader/blob/main/docs/README.en.md)
+Change language from README to [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/FelCer/vtex-pdf-reader/blob/main/docs/README.md)
 
-Esta aplicación sirve para un visualizador de PDF
+This application serves as a PDF viewer
 <br>
 
-## Implementación
+## Implementation
 
-1. Importar `{{vendor}}.pdf-reader` en el archivo `manifest.json` del tema de IO.
+1. Import `{{vendor}}.pdf-reader` into the IO theme's `manifest.json` file.
 
 ```
   "dependencies": {
-    // Validar la versión que se encuentra la aplicación.
+    // Validate the version that the application is found.
     "{{vendor}}.pdf-reader": "0.x",
   }
+
 ```
 
-## Ejemplo de uso
+## Example use
 
-![Media Placeholder](./assets/example_use.png 'Imagen de ejemplo de uso')
+![Media Placeholder](./assets/example_use.png 'image of example use')
 
-## Componentes disponibles
+## Available components
 
 - `pdf-reader`
   <br>
 
-## Componente `pdf-reader`
+## Component `pdf-reader`
 
-Este componente sirve para mostar un documento cargado por el usuario
+This component is used to display a document uploaded by the user
 
 <!-- DOCS-IGNORE:start -->
 
-## Colaboradores ✨
+## Contributors ✨
 
-Gracias a estas maravillosas personas: ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people: ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <table>
   <tr>
